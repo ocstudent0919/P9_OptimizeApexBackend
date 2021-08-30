@@ -39,3 +39,9 @@ $RECYCLE.BIN/
 
 #VS Code
 **/.vscode/
+
+##Others
+.prettierignore
+.prettierrc
+package-lock.json
+package.json
